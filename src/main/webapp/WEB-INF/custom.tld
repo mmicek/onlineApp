@@ -1,0 +1,34 @@
+<taglib>
+    <tlib-version>1.0</tlib-version>
+    <jsp-version>2.0</jsp-version>
+    <short-name>Example TLD</short-name>
+
+    <tag-file>
+        <name>item</name>
+        <path>/WEB-INF/tags/itemTag.tag</path>
+    </tag-file>
+    <tag-file>
+        <name>property</name>
+        <path>/WEB-INF/tags/propertyTag.tag</path>
+    </tag-file>
+    <tag-file>
+        <name>table</name>
+        <path>/WEB-INF/tags/tableTag.tag</path>
+    </tag-file>
+    <tag-file>
+        <name>column</name>
+        <path>/WEB-INF/tags/columnTag.tag</path>
+    </tag-file>
+    <tag-file>
+        <name>searchCriteria</name>
+        <path>/WEB-INF/tags/searchCriteriaTag.tag</path>
+    </tag-file>
+    <tag-file>
+        <name>searchField</name>
+        <path>/WEB-INF/tags/searchFieldTag.tag</path>
+    </tag-file>
+    <tag-file>
+        <name>action</name>
+        <path>/WEB-INF/tags/actionTag.tag</path>
+    </tag-file>
+</taglib>
